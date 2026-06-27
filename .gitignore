@@ -4,3 +4,13 @@ fwatchdog-armhf
 **/*.DS_Store
 .vscode
 .idea
+dist/
+build/
+.env
+*.log
+.DS_Store
+coverage/
+__pycache__/
+.venv/
+*.egg-info/
+.mypy_cache/
